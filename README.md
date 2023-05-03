@@ -1,2 +1,2 @@
 # MVP-AnaliseExploratoriaDeDados
-Repositório contendo o MVC do primeiro módulo da especialização em Ciência de Dados (Análise Exploratória de Dados)
+Repositório contendo o MVP do primeiro módulo da especialização em Ciência de Dados (Análise Exploratória de Dados)
